@@ -1,0 +1,19 @@
+h1{
+  color: blueviolet;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  text-align: center;
+}
+.box{
+    background-color: rgba(162, 255, 0, 0.753);
+    padding-left: 10px;
+    padding-right: 14px;
+    height: 50%;
+    width: 70%;
+    text-align: center;
+
+    
+    ;
+}
+
